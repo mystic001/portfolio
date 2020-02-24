@@ -1,2 +1,2 @@
 # portfolio
-This is a sample of my portforlio
+This is a sample of my portfolio
